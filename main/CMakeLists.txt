@@ -1,1 +1,1 @@
-add_executable(CPPTest main.cpp)
+add_executable(CPPMain main.cpp)
